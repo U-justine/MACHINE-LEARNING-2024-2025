@@ -1,0 +1,10 @@
+Linear regression is a method for determining the best linear relationship between two variables X and Y. If
+variables X and Y are uncorrelated, it is pointless embarking upon linear regression. However, if a reasonable
+degree of correlation exists between X and Y then linear regression may be a useful means to describe the
+relationship between the two variables. The usual approach is to use the least-squares method, which
+minimizes the squared difference between the actual data points and a straight line. Let [xi,yi], i = 1,2,3,....,N be
+the N pairs of data values of the variables X and Y. The straight-line relating X and Y is y = mx + c,
+where m and c are the gradient and constant values (to be determined) defining the straight line. Thus, y(xi) -
+yi is the difference between the line and data point i . Taking all the data points, we seek values
+of m and c that minimize the squared difference SD.
+
